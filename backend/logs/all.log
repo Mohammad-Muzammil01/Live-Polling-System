@@ -1,0 +1,1082 @@
+2025-08-27 10:58:05:585 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 10:58:05:585 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 10:58:05:585 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 10:58:05:585 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 10:58:05:585 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 10:59:01:591 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 10:59:01:591 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 10:59:01:591 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 10:59:01:591 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 10:59:01:591 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 11:16:53:1653 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 11:16:53:1653 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 11:16:53:1653 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 11:16:53:1653 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 11:16:53:1653 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 11:50:12:5012 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 11:50:12:5012 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 11:50:12:5012 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 11:50:12:5012 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 11:50:12:5012 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 12:04:35:435 [32minfo[39m: [32mSocket connected: AFiTSzIKDIfzlRIpAAAC[39m
+2025-08-27 12:04:35:435 [32minfo[39m: [32mSocket connected: QUIUeQG4SW4JzEiVAAAE[39m
+2025-08-27 12:05:36:536 [32minfo[39m: [32mSocket connected: J9pNGgzcXR5RD6LyAAAG[39m
+2025-08-27 12:05:46:546 [32minfo[39m: [32mSocket connected: Zwt8U5cIjktgYqvuAAAJ[39m
+2025-08-27 12:05:46:546 [32minfo[39m: [32mSocket connected: TbdUlghX7G-y4_ZxAAAK[39m
+2025-08-27 12:06:04:64 [32minfo[39m: [32mSocket connected: sSEoJ3jcDYUMuYbHAAAM[39m
+2025-08-27 12:06:08:68 [32minfo[39m: [32mSocket connected: Car8A-W-ysWDImpHAAAO[39m
+2025-08-27 12:06:34:634 [32minfo[39m: [32mSocket connected: 07xQSzmRh0TbaPCKAAAQ[39m
+2025-08-27 12:06:48:648 [32minfo[39m: [32mSocket connected: D033QgzMt0lun_AlAAAS[39m
+2025-08-27 12:06:56:656 [32minfo[39m: [32mSocket connected: 9dRWDVDZj4PubuIqAAAV[39m
+2025-08-27 12:06:56:656 [32minfo[39m: [32mSocket connected: hk6ApD9QSvH9LcSXAAAW[39m
+2025-08-27 12:07:17:717 [32minfo[39m: [32mSocket connected: H55hn49KE4fKeS8tAAAY[39m
+2025-08-27 12:13:27:1327 [32minfo[39m: [32mSocket connected: PPzavcmc4BeH1Ax8AAAa[39m
+2025-08-27 12:13:27:1327 [32minfo[39m: [32mSocket connected: 6kSLLP2MEggrka7SAAAc[39m
+2025-08-27 12:13:31:1331 [32minfo[39m: [32mSocket connected: symdW0RhgRTd39jeAAAe[39m
+2025-08-27 12:13:39:1339 [32minfo[39m: [32mSocket connected: Hs4fTmLN7GMyPDEsAAAg[39m
+2025-08-27 12:13:39:1339 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:13:39:1339 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: Hs4fTmLN7GMyPDEsAAAg[39m
+2025-08-27 12:13:59:1359 [37mdebug[39m: [37mUser 1756277019566 marked as offline[39m
+2025-08-27 12:13:59:1359 [37mdebug[39m: [37mParticipant 1756277019566 status updated[39m
+2025-08-27 12:13:59:1359 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:13:59:1359 [32minfo[39m: [32mUser disconnected: mm - Socket: Hs4fTmLN7GMyPDEsAAAg[39m
+2025-08-27 12:13:59:1359 [32minfo[39m: [32mSocket connected: _0EmZ0D2CJp4rguYAAAi[39m
+2025-08-27 12:13:59:1359 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:13:59:1359 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: _0EmZ0D2CJp4rguYAAAi[39m
+2025-08-27 12:13:59:1359 [32minfo[39m: [32mSocket connected: SFtpB8yCPeb7xjyIAAAk[39m
+2025-08-27 12:14:07:147 [37mdebug[39m: [37mUser 1756277039558 marked as offline[39m
+2025-08-27 12:14:07:147 [37mdebug[39m: [37mParticipant 1756277039558 status updated[39m
+2025-08-27 12:14:07:147 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:14:07:147 [32minfo[39m: [32mUser disconnected: mm - Socket: _0EmZ0D2CJp4rguYAAAi[39m
+2025-08-27 12:14:07:147 [32minfo[39m: [32mSocket connected: fi6vZQd3HDCYAmUXAAAm[39m
+2025-08-27 12:14:07:147 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:14:07:147 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: fi6vZQd3HDCYAmUXAAAm[39m
+2025-08-27 12:14:07:147 [32minfo[39m: [32mSocket connected: pSGv7TjiRzXsqEsMAAAo[39m
+2025-08-27 12:14:16:1416 [37mdebug[39m: [37mUser 1756277047560 marked as offline[39m
+2025-08-27 12:14:16:1416 [37mdebug[39m: [37mParticipant 1756277047560 status updated[39m
+2025-08-27 12:14:16:1416 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:14:16:1416 [32minfo[39m: [32mUser disconnected: mm - Socket: fi6vZQd3HDCYAmUXAAAm[39m
+2025-08-27 12:14:16:1416 [32minfo[39m: [32mSocket connected: 5mxYeQ4ZTxH5jsIGAAAq[39m
+2025-08-27 12:14:16:1416 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:14:16:1416 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: 5mxYeQ4ZTxH5jsIGAAAq[39m
+2025-08-27 12:14:16:1416 [32minfo[39m: [32mSocket connected: nrEOEeUE8v8d_Z5VAAAs[39m
+2025-08-27 12:14:26:1426 [37mdebug[39m: [37mUser 1756277056559 marked as offline[39m
+2025-08-27 12:14:26:1426 [37mdebug[39m: [37mParticipant 1756277056559 status updated[39m
+2025-08-27 12:14:26:1426 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:14:26:1426 [32minfo[39m: [32mUser disconnected: mm - Socket: 5mxYeQ4ZTxH5jsIGAAAq[39m
+2025-08-27 12:14:26:1426 [32minfo[39m: [32mSocket connected: eg-iDnRwwe1EPiqNAAAu[39m
+2025-08-27 12:14:26:1426 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:14:26:1426 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: eg-iDnRwwe1EPiqNAAAu[39m
+2025-08-27 12:14:26:1426 [32minfo[39m: [32mSocket connected: J4GaCMl_AfaVPQhYAAAw[39m
+2025-08-27 12:14:37:1437 [37mdebug[39m: [37mUser 1756277066566 marked as offline[39m
+2025-08-27 12:14:37:1437 [37mdebug[39m: [37mParticipant 1756277066566 status updated[39m
+2025-08-27 12:14:37:1437 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:14:37:1437 [32minfo[39m: [32mUser disconnected: mm - Socket: eg-iDnRwwe1EPiqNAAAu[39m
+2025-08-27 12:14:37:1437 [32minfo[39m: [32mSocket connected: kEJ69LxNeS0Um7UpAAAy[39m
+2025-08-27 12:14:37:1437 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:14:37:1437 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: kEJ69LxNeS0Um7UpAAAy[39m
+2025-08-27 12:14:37:1437 [32minfo[39m: [32mSocket connected: hk9Qy_BX1NbXFS1uAAA0[39m
+2025-08-27 12:14:45:1445 [37mdebug[39m: [37mUser 1756277077560 marked as offline[39m
+2025-08-27 12:14:45:1445 [37mdebug[39m: [37mParticipant 1756277077560 status updated[39m
+2025-08-27 12:14:45:1445 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:14:45:1445 [32minfo[39m: [32mUser disconnected: mm - Socket: kEJ69LxNeS0Um7UpAAAy[39m
+2025-08-27 12:14:45:1445 [32minfo[39m: [32mSocket connected: 5ugV7evpG8c8XpdBAAA2[39m
+2025-08-27 12:14:45:1445 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:14:45:1445 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: 5ugV7evpG8c8XpdBAAA2[39m
+2025-08-27 12:14:45:1445 [32minfo[39m: [32mSocket connected: wOjseApglui96ZbEAAA4[39m
+2025-08-27 12:16:20:1620 [37mdebug[39m: [37mUser 1756277085564 marked as offline[39m
+2025-08-27 12:16:20:1620 [37mdebug[39m: [37mParticipant 1756277085564 status updated[39m
+2025-08-27 12:16:20:1620 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:16:20:1620 [32minfo[39m: [32mUser disconnected: mm - Socket: 5ugV7evpG8c8XpdBAAA2[39m
+2025-08-27 12:16:20:1620 [32minfo[39m: [32mSocket connected: mmL5LD1ywMeE2yPVAAA6[39m
+2025-08-27 12:16:20:1620 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:16:20:1620 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: mmL5LD1ywMeE2yPVAAA6[39m
+2025-08-27 12:16:27:1627 [37mdebug[39m: [37mUser 1756277180572 marked as offline[39m
+2025-08-27 12:16:27:1627 [37mdebug[39m: [37mParticipant 1756277180572 status updated[39m
+2025-08-27 12:16:27:1627 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:16:27:1627 [32minfo[39m: [32mUser disconnected: mm - Socket: mmL5LD1ywMeE2yPVAAA6[39m
+2025-08-27 12:16:27:1627 [32minfo[39m: [32mSocket connected: J_pGCqQixmIZxLrMAAA8[39m
+2025-08-27 12:16:27:1627 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:16:27:1627 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: J_pGCqQixmIZxLrMAAA8[39m
+2025-08-27 12:16:56:1656 [37mdebug[39m: [37mUser 1756277187572 marked as offline[39m
+2025-08-27 12:16:56:1656 [37mdebug[39m: [37mParticipant 1756277187572 status updated[39m
+2025-08-27 12:16:56:1656 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:16:56:1656 [32minfo[39m: [32mUser disconnected: mm - Socket: J_pGCqQixmIZxLrMAAA8[39m
+2025-08-27 12:16:56:1656 [32minfo[39m: [32mSocket connected: mYcaTsyLRMKl-9uyAAA-[39m
+2025-08-27 12:16:56:1656 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:16:56:1656 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: mYcaTsyLRMKl-9uyAAA-[39m
+2025-08-27 12:17:03:173 [37mdebug[39m: [37mUser 1756277216568 marked as offline[39m
+2025-08-27 12:17:03:173 [37mdebug[39m: [37mParticipant 1756277216568 status updated[39m
+2025-08-27 12:17:03:173 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:17:03:173 [32minfo[39m: [32mUser disconnected: mm - Socket: mYcaTsyLRMKl-9uyAAA-[39m
+2025-08-27 12:17:03:173 [32minfo[39m: [32mSocket connected: Z8KPurXn3JrclMPwAABA[39m
+2025-08-27 12:17:03:173 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:17:03:173 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: Z8KPurXn3JrclMPwAABA[39m
+2025-08-27 12:18:54:1854 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 12:18:54:1854 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 12:18:54:1854 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 12:18:54:1854 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 12:18:54:1854 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 12:19:44:1944 [32minfo[39m: [32mSocket connected: BdMfbp8NrimMSIq8AAAB[39m
+2025-08-27 12:19:44:1944 [32minfo[39m: [32mChat participant added: jas (teacher)[39m
+2025-08-27 12:19:44:1944 [32minfo[39m: [32mUser authenticated: jas (teacher) - Socket: BdMfbp8NrimMSIq8AAAB[39m
+2025-08-27 12:21:22:2122 [32minfo[39m: [32mSocket connected: VQyiiDDon05JA1yOAAAE[39m
+2025-08-27 12:21:22:2122 [32minfo[39m: [32mSocket connected: 9j866CoIMgWe9xdpAAAF[39m
+2025-08-27 12:21:22:2122 [32minfo[39m: [32mChat participant added: mm (student)[39m
+2025-08-27 12:21:22:2122 [32minfo[39m: [32mUser authenticated: mm (student) - Socket: 9j866CoIMgWe9xdpAAAF[39m
+2025-08-27 12:21:24:2124 [37mdebug[39m: [37mUser 1756277482108 marked as offline[39m
+2025-08-27 12:21:24:2124 [37mdebug[39m: [37mParticipant 1756277482108 status updated[39m
+2025-08-27 12:21:24:2124 [32minfo[39m: [32mSystem message added: mm left the chat[39m
+2025-08-27 12:21:24:2124 [32minfo[39m: [32mUser disconnected: mm - Socket: 9j866CoIMgWe9xdpAAAF[39m
+2025-08-27 12:21:27:2127 [32minfo[39m: [32mSocket connected: G0cRwEEniKXB3ITlAAAH[39m
+2025-08-27 12:21:33:2133 [32minfo[39m: [32mSocket connected: Bmc06RIrP24q_WdoAAAJ[39m
+2025-08-27 12:21:33:2133 [32minfo[39m: [32mChat participant added: muzmm (student)[39m
+2025-08-27 12:21:33:2133 [32minfo[39m: [32mUser authenticated: muzmm (student) - Socket: Bmc06RIrP24q_WdoAAAJ[39m
+2025-08-27 12:21:35:2135 [37mdebug[39m: [37mUser 1756277493478 marked as offline[39m
+2025-08-27 12:21:35:2135 [37mdebug[39m: [37mParticipant 1756277493478 status updated[39m
+2025-08-27 12:21:35:2135 [32minfo[39m: [32mSystem message added: muzmm left the chat[39m
+2025-08-27 12:21:35:2135 [32minfo[39m: [32mUser disconnected: muzmm - Socket: Bmc06RIrP24q_WdoAAAJ[39m
+2025-08-27 12:22:02:222 [32minfo[39m: [32mTimer started for poll a27b6602-6e67-44e3-aa05-d8c4cf7979db: 60 seconds[39m
+2025-08-27 12:22:02:222 [32minfo[39m: [32mPoll created: name (ID: a27b6602-6e67-44e3-aa05-d8c4cf7979db)[39m
+2025-08-27 12:22:02:222 [32minfo[39m: [32mSystem message added: New poll created: "name"[39m
+2025-08-27 12:22:02:222 [32minfo[39m: [32mPoll created via socket by jas: name[39m
+2025-08-27 12:22:06:226 [32minfo[39m: [32mSocket connected: 9jWIZUwj-_4lxXn_AAAL[39m
+2025-08-27 12:22:06:226 [32minfo[39m: [32mChat participant added: Muzammil (teacher)[39m
+2025-08-27 12:22:06:226 [32minfo[39m: [32mUser authenticated: Muzammil (teacher) - Socket: 9jWIZUwj-_4lxXn_AAAL[39m
+2025-08-27 12:22:38:2238 [32minfo[39m: [32mTimer started for poll 9166c329-521e-42d1-85a1-c5f1e0133741: 60 seconds[39m
+2025-08-27 12:22:38:2238 [32minfo[39m: [32mPoll created: mm (ID: 9166c329-521e-42d1-85a1-c5f1e0133741)[39m
+2025-08-27 12:22:38:2238 [32minfo[39m: [32mSystem message added: New poll created: "mm"[39m
+2025-08-27 12:22:38:2238 [32minfo[39m: [32mPoll created via socket by jas: mm[39m
+2025-08-27 12:23:38:2338 [32minfo[39m: [32mAuto-ending poll 9166c329-521e-42d1-85a1-c5f1e0133741 due to time expiration[39m
+2025-08-27 12:23:49:2349 [37mdebug[39m: [37mUser 1756277526157 marked as offline[39m
+2025-08-27 12:23:49:2349 [37mdebug[39m: [37mParticipant 1756277526157 status updated[39m
+2025-08-27 12:23:49:2349 [32minfo[39m: [32mSystem message added: Muzammil left the chat[39m
+2025-08-27 12:23:49:2349 [32minfo[39m: [32mUser disconnected: Muzammil - Socket: 9jWIZUwj-_4lxXn_AAAL[39m
+2025-08-27 12:25:14:2514 [32minfo[39m: [32mTimer started for poll 5afc3314-aa12-4a9c-9b4e-bba97ca1492c: 60 seconds[39m
+2025-08-27 12:25:14:2514 [32minfo[39m: [32mPoll created: WHAT (ID: 5afc3314-aa12-4a9c-9b4e-bba97ca1492c)[39m
+2025-08-27 12:25:14:2514 [32minfo[39m: [32mSystem message added: New poll created: "WHAT"[39m
+2025-08-27 12:25:14:2514 [32minfo[39m: [32mPoll created via socket by jas: WHAT[39m
+2025-08-27 12:25:19:2519 [32minfo[39m: [32mSocket connected: sXwPgLNf7TMec_8UAAAN[39m
+2025-08-27 12:26:14:2614 [32minfo[39m: [32mAuto-ending poll 5afc3314-aa12-4a9c-9b4e-bba97ca1492c due to time expiration[39m
+2025-08-27 12:30:20:3020 [32minfo[39m: [32mSocket connected: 9QgfXXidFcYJSyYbAAAP[39m
+2025-08-27 12:30:20:3020 [32minfo[39m: [32mChat participant added: NN (student)[39m
+2025-08-27 12:30:20:3020 [32minfo[39m: [32mUser authenticated: NN (student) - Socket: 9QgfXXidFcYJSyYbAAAP[39m
+2025-08-27 12:30:43:3043 [37mdebug[39m: [37mUser 1756278020580 marked as offline[39m
+2025-08-27 12:30:43:3043 [37mdebug[39m: [37mParticipant 1756278020580 status updated[39m
+2025-08-27 12:30:43:3043 [32minfo[39m: [32mSystem message added: NN left the chat[39m
+2025-08-27 12:30:43:3043 [32minfo[39m: [32mUser disconnected: NN - Socket: 9QgfXXidFcYJSyYbAAAP[39m
+2025-08-27 17:13:33:1333 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 17:13:33:1333 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 17:13:33:1333 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 17:13:33:1333 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 17:13:33:1333 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 17:15:56:1556 [32minfo[39m: [32mSocket connected: MSyDLncJoZMapmyHAAAB[39m
+2025-08-27 17:15:56:1556 [32minfo[39m: [32mChat participant added: AMAZ (teacher)[39m
+2025-08-27 17:15:56:1556 [32minfo[39m: [32mUser authenticated: AMAZ (teacher) - Socket: MSyDLncJoZMapmyHAAAB[39m
+2025-08-27 17:16:02:162 [32minfo[39m: [32mSocket connected: 0mt9pUJWUq9Sr-ZKAAAD[39m
+2025-08-27 17:16:02:162 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 17:16:02:162 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: 0mt9pUJWUq9Sr-ZKAAAD[39m
+2025-08-27 17:16:27:1627 [32minfo[39m: [32mTimer started for poll d0050cd3-ae58-4974-98e8-9f834f94bf3e: 60 seconds[39m
+2025-08-27 17:16:27:1627 [32minfo[39m: [32mPoll created: IS IT? (ID: d0050cd3-ae58-4974-98e8-9f834f94bf3e)[39m
+2025-08-27 17:16:27:1627 [32minfo[39m: [32mSystem message added: New poll created: "IS IT?"[39m
+2025-08-27 17:16:27:1627 [32minfo[39m: [32mPoll created via socket by AMAZ: IS IT?[39m
+2025-08-27 17:17:05:175 [32minfo[39m: [32mTimer started for poll 4f339f45-3404-4b00-b79e-eb9f9838742c: 60 seconds[39m
+2025-08-27 17:17:05:175 [32minfo[39m: [32mPoll created: OK (ID: 4f339f45-3404-4b00-b79e-eb9f9838742c)[39m
+2025-08-27 17:17:05:175 [32minfo[39m: [32mSystem message added: New poll created: "OK"[39m
+2025-08-27 17:17:05:175 [32minfo[39m: [32mPoll created via socket by AMAZ: OK[39m
+2025-08-27 17:17:09:179 [37mdebug[39m: [37mParticipant 1756295162337 status updated[39m
+2025-08-27 17:17:09:179 [32minfo[39m: [32mUser name updated: 1756295162337 -> MAX[39m
+2025-08-27 17:18:04:184 [37mdebug[39m: [37mUser 1756295162337 marked as offline[39m
+2025-08-27 17:18:04:184 [37mdebug[39m: [37mParticipant 1756295162337 status updated[39m
+2025-08-27 17:18:04:184 [32minfo[39m: [32mSystem message added: MAX left the chat[39m
+2025-08-27 17:18:04:184 [32minfo[39m: [32mUser disconnected: MAX - Socket: 0mt9pUJWUq9Sr-ZKAAAD[39m
+2025-08-27 17:18:04:184 [37mdebug[39m: [37mUser 1756295155903 marked as offline[39m
+2025-08-27 17:18:04:184 [37mdebug[39m: [37mParticipant 1756295155903 status updated[39m
+2025-08-27 17:18:04:184 [32minfo[39m: [32mSystem message added: AMAZ left the chat[39m
+2025-08-27 17:18:04:184 [32minfo[39m: [32mUser disconnected: AMAZ - Socket: MSyDLncJoZMapmyHAAAB[39m
+2025-08-27 17:26:12:2612 [32minfo[39m: [32mAuto-ending poll 4f339f45-3404-4b00-b79e-eb9f9838742c due to time expiration[39m
+2025-08-27 17:26:14:2614 [32minfo[39m: [32mSocket connected: 8CVT2D8R386T9OqEAAAF[39m
+2025-08-27 17:26:14:2614 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 17:26:14:2614 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: 8CVT2D8R386T9OqEAAAF[39m
+2025-08-27 17:26:14:2614 [32minfo[39m: [32mSocket connected: AFYuXD4a46XvNVFbAAAH[39m
+2025-08-27 17:26:14:2614 [32minfo[39m: [32mChat participant added: AMAZ (teacher)[39m
+2025-08-27 17:26:14:2614 [32minfo[39m: [32mUser authenticated: AMAZ (teacher) - Socket: AFYuXD4a46XvNVFbAAAH[39m
+2025-08-27 17:26:58:2658 [32minfo[39m: [32mTimer started for poll bcd9c51b-2871-4ae7-aa5b-804f69f5ae0d: 120 seconds[39m
+2025-08-27 17:26:58:2658 [32minfo[39m: [32mPoll created: OKK (ID: bcd9c51b-2871-4ae7-aa5b-804f69f5ae0d)[39m
+2025-08-27 17:26:58:2658 [32minfo[39m: [32mSystem message added: New poll created: "OKK"[39m
+2025-08-27 17:26:58:2658 [32minfo[39m: [32mPoll created via socket by AMAZ: OKK[39m
+2025-08-27 17:27:13:2713 [32minfo[39m: [32mChat message added: 1756295162337 -> OK...[39m
+2025-08-27 17:27:13:2713 [32minfo[39m: [32mChat message sent via socket: Student -> OK...[39m
+2025-08-27 17:36:21:3621 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 17:36:21:3621 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 17:36:21:3621 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 17:36:21:3621 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 17:36:21:3621 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 17:38:30:3830 [32minfo[39m: [32mSocket connected: JZysdNQF078UsZglAAAB[39m
+2025-08-27 17:38:30:3830 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 17:38:30:3830 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: JZysdNQF078UsZglAAAB[39m
+2025-08-27 17:38:41:3841 [37mdebug[39m: [37mParticipant 1756296510848 status updated[39m
+2025-08-27 17:38:41:3841 [32minfo[39m: [32mUser name updated: 1756296510848 -> MZ[39m
+2025-08-27 17:39:09:399 [32minfo[39m: [32mSocket connected: 3G1yIiEfOBqdKMKiAAAD[39m
+2025-08-27 17:39:09:399 [32minfo[39m: [32mChat participant added: NN (teacher)[39m
+2025-08-27 17:39:09:399 [32minfo[39m: [32mUser authenticated: NN (teacher) - Socket: 3G1yIiEfOBqdKMKiAAAD[39m
+2025-08-27 17:39:30:3930 [32minfo[39m: [32mTimer started for poll 30c03933-d987-4905-921d-5350419e53cf: 60 seconds[39m
+2025-08-27 17:39:30:3930 [32minfo[39m: [32mPoll created: OOOOOO (ID: 30c03933-d987-4905-921d-5350419e53cf)[39m
+2025-08-27 17:39:30:3930 [32minfo[39m: [32mSystem message added: New poll created: "OOOOOO"[39m
+2025-08-27 17:39:30:3930 [32minfo[39m: [32mPoll created via socket by NN: OOOOOO[39m
+2025-08-27 17:39:46:3946 [37mdebug[39m: [37mParticipant 1756296510848 status updated[39m
+2025-08-27 17:39:46:3946 [32minfo[39m: [32mUser name updated: 1756296510848 -> GG[39m
+2025-08-27 17:39:53:3953 [32minfo[39m: [32mChat message added: 1756296510848 -> JJ...[39m
+2025-08-27 17:39:53:3953 [32minfo[39m: [32mChat message sent via socket: GG -> JJ...[39m
+2025-08-27 17:40:00:400 [32minfo[39m: [32mChat message added: 1756296510848 -> OK...[39m
+2025-08-27 17:40:00:400 [32minfo[39m: [32mChat message sent via socket: GG -> OK...[39m
+2025-08-27 17:40:17:4017 [37mdebug[39m: [37mUser 1756296510848 marked as offline[39m
+2025-08-27 17:40:17:4017 [37mdebug[39m: [37mParticipant 1756296510848 status updated[39m
+2025-08-27 17:40:17:4017 [32minfo[39m: [32mSystem message added: GG left the chat[39m
+2025-08-27 17:40:17:4017 [32minfo[39m: [32mUser disconnected: GG - Socket: JZysdNQF078UsZglAAAB[39m
+2025-08-27 17:40:18:4018 [37mdebug[39m: [37mUser 1756296549603 marked as offline[39m
+2025-08-27 17:40:18:4018 [37mdebug[39m: [37mParticipant 1756296549603 status updated[39m
+2025-08-27 17:40:18:4018 [32minfo[39m: [32mSystem message added: NN left the chat[39m
+2025-08-27 17:40:18:4018 [32minfo[39m: [32mUser disconnected: NN - Socket: 3G1yIiEfOBqdKMKiAAAD[39m
+2025-08-27 17:40:30:4030 [32minfo[39m: [32mAuto-ending poll 30c03933-d987-4905-921d-5350419e53cf due to time expiration[39m
+2025-08-27 18:01:48:148 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 18:01:48:148 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 18:01:48:148 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 18:01:48:148 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 18:01:48:148 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 18:03:20:320 [32minfo[39m: [32mSocket connected: qwvI-ao5Af0WBQstAAAB[39m
+2025-08-27 18:03:20:320 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 18:03:20:320 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: qwvI-ao5Af0WBQstAAAB[39m
+2025-08-27 18:03:24:324 [37mdebug[39m: [37mParticipant 1756298000013 status updated[39m
+2025-08-27 18:03:24:324 [32minfo[39m: [32mUser name updated: 1756298000013 -> iam[39m
+2025-08-27 18:04:12:412 [32minfo[39m: [32mSocket connected: T093QaE4796GtGikAAAD[39m
+2025-08-27 18:04:12:412 [32minfo[39m: [32mChat participant added: ok (teacher)[39m
+2025-08-27 18:04:12:412 [32minfo[39m: [32mUser authenticated: ok (teacher) - Socket: T093QaE4796GtGikAAAD[39m
+2025-08-27 18:05:05:55 [32minfo[39m: [32mTimer started for poll aa5e0b8d-1fa3-48d0-b4e7-cad9c6f5f710: 60 seconds[39m
+2025-08-27 18:05:05:55 [32minfo[39m: [32mPoll created: ARE YU? (ID: aa5e0b8d-1fa3-48d0-b4e7-cad9c6f5f710)[39m
+2025-08-27 18:05:05:55 [32minfo[39m: [32mSystem message added: New poll created: "ARE YU?"[39m
+2025-08-27 18:05:05:55 [32minfo[39m: [32mPoll created via socket by ok: ARE YU?[39m
+2025-08-27 18:05:23:523 [32minfo[39m: [32mSocket connected: YQK14h6gZv8n07j7AAAF[39m
+2025-08-27 18:05:23:523 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 18:05:23:523 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: YQK14h6gZv8n07j7AAAF[39m
+2025-08-27 18:05:34:534 [37mdebug[39m: [37mParticipant 1756298123647 status updated[39m
+2025-08-27 18:05:34:534 [32minfo[39m: [32mUser name updated: 1756298123647 -> BB[39m
+2025-08-27 18:05:43:543 [37mdebug[39m: [37mUser 1756298000013 marked as offline[39m
+2025-08-27 18:05:43:543 [37mdebug[39m: [37mParticipant 1756298000013 status updated[39m
+2025-08-27 18:05:43:543 [32minfo[39m: [32mSystem message added: iam left the chat[39m
+2025-08-27 18:05:43:543 [32minfo[39m: [32mUser disconnected: iam - Socket: qwvI-ao5Af0WBQstAAAB[39m
+2025-08-27 18:06:05:65 [32minfo[39m: [32mAuto-ending poll aa5e0b8d-1fa3-48d0-b4e7-cad9c6f5f710 due to time expiration[39m
+2025-08-27 18:06:42:642 [32minfo[39m: [32mChat message added: 1756298052200 -> OK...[39m
+2025-08-27 18:06:42:642 [32minfo[39m: [32mChat message sent via socket: ok -> OK...[39m
+2025-08-27 18:09:00:90 [32minfo[39m: [32mSocket connected: BlfhMeyU-YOcheWnAAAH[39m
+2025-08-27 18:09:00:90 [32minfo[39m: [32mChat participant added: AA (teacher)[39m
+2025-08-27 18:09:00:90 [32minfo[39m: [32mUser authenticated: AA (teacher) - Socket: BlfhMeyU-YOcheWnAAAH[39m
+2025-08-27 18:09:21:921 [32minfo[39m: [32mSocket connected: kGgEpBG--rp-CWFJAAAJ[39m
+2025-08-27 18:09:21:921 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 18:09:21:921 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: kGgEpBG--rp-CWFJAAAJ[39m
+2025-08-27 18:09:30:930 [37mdebug[39m: [37mParticipant 1756298361218 status updated[39m
+2025-08-27 18:09:30:930 [32minfo[39m: [32mUser name updated: 1756298361218 -> SS[39m
+2025-08-27 18:09:55:955 [32minfo[39m: [32mTimer started for poll 256fe1d7-af6c-4a75-86db-f69fd84ef85d: 60 seconds[39m
+2025-08-27 18:09:55:955 [32minfo[39m: [32mPoll created: Z (ID: 256fe1d7-af6c-4a75-86db-f69fd84ef85d)[39m
+2025-08-27 18:09:55:955 [32minfo[39m: [32mSystem message added: New poll created: "Z"[39m
+2025-08-27 18:09:55:955 [32minfo[39m: [32mPoll created via socket by AA: Z[39m
+2025-08-27 18:10:19:1019 [37mdebug[39m: [37mUser 1756298361218 marked as offline[39m
+2025-08-27 18:10:19:1019 [37mdebug[39m: [37mParticipant 1756298361218 status updated[39m
+2025-08-27 18:10:19:1019 [32minfo[39m: [32mSystem message added: SS left the chat[39m
+2025-08-27 18:10:19:1019 [32minfo[39m: [32mUser disconnected: SS - Socket: kGgEpBG--rp-CWFJAAAJ[39m
+2025-08-27 18:10:22:1022 [37mdebug[39m: [37mUser 1756298340588 marked as offline[39m
+2025-08-27 18:10:22:1022 [37mdebug[39m: [37mParticipant 1756298340588 status updated[39m
+2025-08-27 18:10:22:1022 [32minfo[39m: [32mSystem message added: AA left the chat[39m
+2025-08-27 18:10:22:1022 [32minfo[39m: [32mUser disconnected: AA - Socket: BlfhMeyU-YOcheWnAAAH[39m
+2025-08-27 18:10:30:1030 [32minfo[39m: [32mSocket connected: pFJ6ytkCKoy6hVjuAAAL[39m
+2025-08-27 18:10:30:1030 [32minfo[39m: [32mChat participant added: SS (teacher)[39m
+2025-08-27 18:10:30:1030 [32minfo[39m: [32mUser authenticated: SS (teacher) - Socket: pFJ6ytkCKoy6hVjuAAAL[39m
+2025-08-27 18:10:38:1038 [32minfo[39m: [32mTimer started for poll f17225f4-31c0-4bd0-8f02-6c9dc4657124: 60 seconds[39m
+2025-08-27 18:10:38:1038 [32minfo[39m: [32mPoll created: S (ID: f17225f4-31c0-4bd0-8f02-6c9dc4657124)[39m
+2025-08-27 18:10:38:1038 [32minfo[39m: [32mSystem message added: New poll created: "S"[39m
+2025-08-27 18:10:38:1038 [32minfo[39m: [32mPoll created via socket by SS: S[39m
+2025-08-27 18:10:43:1043 [32minfo[39m: [32mSocket connected: qmLh_DufIYQYDkMjAAAN[39m
+2025-08-27 18:10:43:1043 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 18:10:43:1043 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: qmLh_DufIYQYDkMjAAAN[39m
+2025-08-27 18:10:53:1053 [37mdebug[39m: [37mParticipant 1756298443552 status updated[39m
+2025-08-27 18:10:53:1053 [32minfo[39m: [32mUser name updated: 1756298443552 -> XX[39m
+2025-08-27 20:56:44:5644 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 20:56:44:5644 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 20:56:44:5644 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 20:56:44:5644 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 20:56:44:5644 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 20:57:18:5718 [32minfo[39m: [32mSocket connected: qdWsRxmcvKsJuUYtAAAB[39m
+2025-08-27 20:57:18:5718 [32minfo[39m: [32mChat participant added: Ali (teacher)[39m
+2025-08-27 20:57:18:5718 [32minfo[39m: [32mUser authenticated: Ali (teacher) - Socket: qdWsRxmcvKsJuUYtAAAB[39m
+2025-08-27 20:57:48:5748 [32minfo[39m: [32mTimer started for poll 88c5c70a-4c16-4a55-9db5-831792b9ac37: 60 seconds[39m
+2025-08-27 20:57:48:5748 [32minfo[39m: [32mPoll created: USER (ID: 88c5c70a-4c16-4a55-9db5-831792b9ac37)[39m
+2025-08-27 20:57:48:5748 [32minfo[39m: [32mSystem message added: New poll created: "USER"[39m
+2025-08-27 20:57:48:5748 [32minfo[39m: [32mPoll created via socket by Ali: USER[39m
+2025-08-27 20:58:48:5848 [32minfo[39m: [32mAuto-ending poll 88c5c70a-4c16-4a55-9db5-831792b9ac37 due to time expiration[39m
+2025-08-27 21:00:00:00 [32minfo[39m: [32mTimer started for poll c1a1fb4e-fa1e-4887-8c2d-ad56f16bd276: 60 seconds[39m
+2025-08-27 21:00:00:00 [32minfo[39m: [32mPoll created: Yes (ID: c1a1fb4e-fa1e-4887-8c2d-ad56f16bd276)[39m
+2025-08-27 21:00:00:00 [32minfo[39m: [32mSystem message added: New poll created: "Yes"[39m
+2025-08-27 21:00:00:00 [32minfo[39m: [32mPoll created via socket by Ali: Yes[39m
+2025-08-27 21:00:16:016 [37mdebug[39m: [37mParticipant 1756308438355 status updated[39m
+2025-08-27 21:00:16:016 [32minfo[39m: [32mUser name updated: 1756308438355 -> Muzammil[39m
+2025-08-27 21:01:00:10 [32minfo[39m: [32mAuto-ending poll c1a1fb4e-fa1e-4887-8c2d-ad56f16bd276 due to time expiration[39m
+2025-08-27 21:01:16:116 [32minfo[39m: [32mChat message added: 1756308438355 -> Hii...[39m
+2025-08-27 21:01:16:116 [32minfo[39m: [32mChat message sent via socket: Muzammil -> Hii...[39m
+2025-08-27 21:02:00:20 [37mdebug[39m: [37mParticipant 1756308438355 status updated[39m
+2025-08-27 21:02:00:20 [32minfo[39m: [32mUser name updated: 1756308438355 -> Muzammil[39m
+2025-08-27 21:02:36:236 [37mdebug[39m: [37mParticipant 1756308438355 status updated[39m
+2025-08-27 21:02:36:236 [32minfo[39m: [32mUser name updated: 1756308438355 -> Muzammil[39m
+2025-08-27 21:02:54:254 [37mdebug[39m: [37mParticipant 1756308438355 status updated[39m
+2025-08-27 21:02:54:254 [32minfo[39m: [32mUser name updated: 1756308438355 -> Ali[39m
+2025-08-27 21:03:19:319 [37mdebug[39m: [37mParticipant 1756308438355 status updated[39m
+2025-08-27 21:03:19:319 [32minfo[39m: [32mUser name updated: 1756308438355 -> Muzammil[39m
+2025-08-27 21:03:32:332 [37mdebug[39m: [37mUser 1756308438355 marked as offline[39m
+2025-08-27 21:03:32:332 [37mdebug[39m: [37mParticipant 1756308438355 status updated[39m
+2025-08-27 21:03:32:332 [32minfo[39m: [32mSystem message added: Muzammil left the chat[39m
+2025-08-27 21:03:32:332 [32minfo[39m: [32mUser disconnected: Muzammil - Socket: qdWsRxmcvKsJuUYtAAAB[39m
+2025-08-27 21:03:44:344 [32minfo[39m: [32mSocket connected: xsmTwIf1AiHkbfWHAAAD[39m
+2025-08-27 21:03:44:344 [32minfo[39m: [32mChat participant added: MX (teacher)[39m
+2025-08-27 21:03:44:344 [32minfo[39m: [32mUser authenticated: MX (teacher) - Socket: xsmTwIf1AiHkbfWHAAAD[39m
+2025-08-27 21:04:12:412 [32minfo[39m: [32mSocket connected: LzyPhiZpnBrAVMWVAAAF[39m
+2025-08-27 21:04:12:412 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 21:04:12:412 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: LzyPhiZpnBrAVMWVAAAF[39m
+2025-08-27 21:04:48:448 [32minfo[39m: [32mTimer started for poll 3958d36b-556a-4d4b-b280-f4766c6a055c: 60 seconds[39m
+2025-08-27 21:04:48:448 [32minfo[39m: [32mPoll created: rry (ID: 3958d36b-556a-4d4b-b280-f4766c6a055c)[39m
+2025-08-27 21:04:48:448 [32minfo[39m: [32mSystem message added: New poll created: "rry"[39m
+2025-08-27 21:04:48:448 [32minfo[39m: [32mPoll created via socket by MX: rry[39m
+2025-08-27 21:04:53:453 [37mdebug[39m: [37mParticipant 1756308852785 status updated[39m
+2025-08-27 21:04:53:453 [32minfo[39m: [32mUser name updated: 1756308852785 -> Me[39m
+2025-08-27 21:05:25:525 [37mdebug[39m: [37mUser 1756308824250 marked as offline[39m
+2025-08-27 21:05:25:525 [37mdebug[39m: [37mParticipant 1756308824250 status updated[39m
+2025-08-27 21:05:25:525 [32minfo[39m: [32mSystem message added: MX left the chat[39m
+2025-08-27 21:05:25:525 [32minfo[39m: [32mUser disconnected: MX - Socket: xsmTwIf1AiHkbfWHAAAD[39m
+2025-08-27 21:05:33:533 [32minfo[39m: [32mSocket connected: 2wn-Iz0De6LUEjxnAAAH[39m
+2025-08-27 21:05:33:533 [32minfo[39m: [32mChat participant added: Mx (teacher)[39m
+2025-08-27 21:05:33:533 [32minfo[39m: [32mUser authenticated: Mx (teacher) - Socket: 2wn-Iz0De6LUEjxnAAAH[39m
+2025-08-27 21:05:48:548 [32minfo[39m: [32mAuto-ending poll 3958d36b-556a-4d4b-b280-f4766c6a055c due to time expiration[39m
+2025-08-27 21:05:56:556 [37mdebug[39m: [37mUser 1756308852785 marked as offline[39m
+2025-08-27 21:05:56:556 [37mdebug[39m: [37mParticipant 1756308852785 status updated[39m
+2025-08-27 21:05:56:556 [32minfo[39m: [32mSystem message added: Me left the chat[39m
+2025-08-27 21:05:56:556 [32minfo[39m: [32mUser disconnected: Me - Socket: LzyPhiZpnBrAVMWVAAAF[39m
+2025-08-27 21:06:08:68 [37mdebug[39m: [37mParticipant 1756308933140 status updated[39m
+2025-08-27 21:06:08:68 [32minfo[39m: [32mUser name updated: 1756308933140 -> tt[39m
+2025-08-27 21:06:27:627 [32minfo[39m: [32mTimer started for poll d9a93747-7f30-4736-a1fe-a38886eaf75b: 60 seconds[39m
+2025-08-27 21:06:27:627 [32minfo[39m: [32mPoll created: t (ID: d9a93747-7f30-4736-a1fe-a38886eaf75b)[39m
+2025-08-27 21:06:27:627 [32minfo[39m: [32mSystem message added: New poll created: "t"[39m
+2025-08-27 21:06:27:627 [32minfo[39m: [32mPoll created via socket by tt: t[39m
+2025-08-27 21:07:27:727 [32minfo[39m: [32mAuto-ending poll d9a93747-7f30-4736-a1fe-a38886eaf75b due to time expiration[39m
+2025-08-27 21:08:01:81 [32minfo[39m: [32mChat message added: 1756308933140 -> Hi...[39m
+2025-08-27 21:08:01:81 [32minfo[39m: [32mChat message sent via socket: tt -> Hi...[39m
+2025-08-27 21:08:22:822 [37mdebug[39m: [37mParticipant 1756308933140 status updated[39m
+2025-08-27 21:08:22:822 [32minfo[39m: [32mUser name updated: 1756308933140 -> tt[39m
+2025-08-27 21:09:59:959 [37mdebug[39m: [37mUser 1756308933140 marked as offline[39m
+2025-08-27 21:09:59:959 [37mdebug[39m: [37mParticipant 1756308933140 status updated[39m
+2025-08-27 21:09:59:959 [32minfo[39m: [32mSystem message added: tt left the chat[39m
+2025-08-27 21:09:59:959 [32minfo[39m: [32mUser disconnected: tt - Socket: 2wn-Iz0De6LUEjxnAAAH[39m
+2025-08-27 21:10:24:1024 [32minfo[39m: [32mSocket connected: HVz0n7luBGSJy094AAAJ[39m
+2025-08-27 21:10:24:1024 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 21:10:24:1024 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: HVz0n7luBGSJy094AAAJ[39m
+2025-08-27 21:10:29:1029 [37mdebug[39m: [37mParticipant 1756309224466 status updated[39m
+2025-08-27 21:10:29:1029 [32minfo[39m: [32mUser name updated: 1756309224466 -> dd[39m
+2025-08-27 21:10:40:1040 [32minfo[39m: [32mSocket connected: 8-j0NqigdTxn6dGbAAAL[39m
+2025-08-27 21:10:40:1040 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 21:10:40:1040 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: 8-j0NqigdTxn6dGbAAAL[39m
+2025-08-27 21:10:59:1059 [32minfo[39m: [32mTimer started for poll 8f6c30b1-2392-4c1a-b708-8f0117003931: 60 seconds[39m
+2025-08-27 21:10:59:1059 [32minfo[39m: [32mPoll created: 1 (ID: 8f6c30b1-2392-4c1a-b708-8f0117003931)[39m
+2025-08-27 21:10:59:1059 [32minfo[39m: [32mSystem message added: New poll created: "1"[39m
+2025-08-27 21:10:59:1059 [32minfo[39m: [32mPoll created via socket by ff: 1[39m
+2025-08-27 21:11:25:1125 [32minfo[39m: [32mSocket connected: qZ2pH6auKr1zqqOuAAAN[39m
+2025-08-27 21:11:25:1125 [32minfo[39m: [32mChat participant added: ss (teacher)[39m
+2025-08-27 21:11:25:1125 [32minfo[39m: [32mUser authenticated: ss (teacher) - Socket: qZ2pH6auKr1zqqOuAAAN[39m
+2025-08-27 21:11:36:1136 [32minfo[39m: [32mTimer started for poll 5323f4f2-323d-4309-809d-362d724ff2a5: 60 seconds[39m
+2025-08-27 21:11:36:1136 [32minfo[39m: [32mPoll created: 1 (ID: 5323f4f2-323d-4309-809d-362d724ff2a5)[39m
+2025-08-27 21:11:36:1136 [32minfo[39m: [32mSystem message added: New poll created: "1"[39m
+2025-08-27 21:11:36:1136 [32minfo[39m: [32mPoll created via socket by ss: 1[39m
+2025-08-27 21:12:36:1236 [32minfo[39m: [32mAuto-ending poll 5323f4f2-323d-4309-809d-362d724ff2a5 due to time expiration[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32mSocket connected: 32ttQstzv-yjOXEmAAAB[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32mChat participant added: ss (teacher)[39m
+2025-08-27 21:22:32:2232 [32minfo[39m: [32mUser authenticated: ss (teacher) - Socket: 32ttQstzv-yjOXEmAAAB[39m
+2025-08-27 21:22:33:2233 [32minfo[39m: [32mSocket connected: PYvtYcAE-Ln7HTWcAAAD[39m
+2025-08-27 21:22:33:2233 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 21:22:33:2233 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: PYvtYcAE-Ln7HTWcAAAD[39m
+2025-08-27 21:22:39:2239 [32minfo[39m: [32mSocket connected: Na1JLuF5ELX9MBRSAAAF[39m
+2025-08-27 21:22:39:2239 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 21:22:39:2239 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: Na1JLuF5ELX9MBRSAAAF[39m
+2025-08-27 21:23:20:2320 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 21:23:20:2320 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 21:23:20:2320 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 21:23:20:2320 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 21:23:20:2320 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 21:23:23:2323 [32minfo[39m: [32mSocket connected: Wt7sXsVh96E_7LIcAAAB[39m
+2025-08-27 21:23:23:2323 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 21:23:23:2323 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: Wt7sXsVh96E_7LIcAAAB[39m
+2025-08-27 21:24:11:2411 [32minfo[39m: [32mSocket connected: dX90T85RFMm2j3DnAAAD[39m
+2025-08-27 21:24:11:2411 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 21:24:11:2411 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: dX90T85RFMm2j3DnAAAD[39m
+2025-08-27 21:24:16:2416 [37mdebug[39m: [37mParticipant 1756310051127 status updated[39m
+2025-08-27 21:24:16:2416 [32minfo[39m: [32mUser name updated: 1756310051127 -> Muz[39m
+2025-08-27 21:24:55:2455 [32minfo[39m: [32mChat message added: 1756310051127 -> hi...[39m
+2025-08-27 21:24:55:2455 [32minfo[39m: [32mChat message sent via socket: Muz -> hi...[39m
+2025-08-27 21:26:14:2614 [37mdebug[39m: [37mParticipant 1756310051127 status updated[39m
+2025-08-27 21:26:14:2614 [32minfo[39m: [32mUser name updated: 1756310051127 -> Muz[39m
+2025-08-27 21:26:36:2636 [37mdebug[39m: [37mParticipant 1756310051127 status updated[39m
+2025-08-27 21:26:36:2636 [32minfo[39m: [32mUser name updated: 1756310051127 -> Ras[39m
+2025-08-27 21:27:21:2721 [37mdebug[39m: [37mParticipant 1756310051127 status updated[39m
+2025-08-27 21:27:21:2721 [32minfo[39m: [32mUser name updated: 1756310051127 -> Ras[39m
+2025-08-27 21:27:31:2731 [32minfo[39m: [32mChat message added: 1756310051127 -> ok...[39m
+2025-08-27 21:27:31:2731 [32minfo[39m: [32mChat message sent via socket: Ras -> ok...[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32mSocket connected: pJvrbQpNxogbWuZOAAAB[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 22:51:48:5148 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: pJvrbQpNxogbWuZOAAAB[39m
+2025-08-27 22:53:07:537 [32minfo[39m: [32mSocket connected: 8EG0B3KM2F9YraQ8AAAD[39m
+2025-08-27 22:53:07:537 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 22:53:07:537 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: 8EG0B3KM2F9YraQ8AAAD[39m
+2025-08-27 22:53:16:5316 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 22:53:16:5316 [32minfo[39m: [32mUser name updated: 1756315387033 -> nez[39m
+2025-08-27 22:53:45:5345 [32minfo[39m: [32mSocket connected: cszeDLRBixJgJrgXAAAF[39m
+2025-08-27 22:53:45:5345 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 22:53:45:5345 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: cszeDLRBixJgJrgXAAAF[39m
+2025-08-27 22:54:41:5441 [32minfo[39m: [32mTimer started for poll e276ead1-c13e-4e64-a28e-b79f27fb9f24: 60 seconds[39m
+2025-08-27 22:54:41:5441 [32minfo[39m: [32mPoll created: 1234 (ID: e276ead1-c13e-4e64-a28e-b79f27fb9f24)[39m
+2025-08-27 22:54:41:5441 [32minfo[39m: [32mSystem message added: New poll created: "1234"[39m
+2025-08-27 22:54:41:5441 [32minfo[39m: [32mPoll created via socket by mu: 1234[39m
+2025-08-27 22:55:06:556 [32minfo[39m: [32mTimer started for poll f785de5f-a8c7-4461-9006-e28a6515d096: 60 seconds[39m
+2025-08-27 22:55:06:556 [32minfo[39m: [32mPoll created: 4 (ID: f785de5f-a8c7-4461-9006-e28a6515d096)[39m
+2025-08-27 22:55:06:556 [32minfo[39m: [32mSystem message added: New poll created: "4"[39m
+2025-08-27 22:55:06:556 [32minfo[39m: [32mPoll created via socket by mu: 4[39m
+2025-08-27 22:55:44:5544 [32minfo[39m: [32mTimer started for poll b35f1993-9624-4997-ae07-ce67b483fcf6: 60 seconds[39m
+2025-08-27 22:55:44:5544 [32minfo[39m: [32mPoll created: 89 (ID: b35f1993-9624-4997-ae07-ce67b483fcf6)[39m
+2025-08-27 22:55:44:5544 [32minfo[39m: [32mSystem message added: New poll created: "89"[39m
+2025-08-27 22:55:44:5544 [32minfo[39m: [32mPoll created via socket by mu: 89[39m
+2025-08-27 22:56:02:562 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 22:56:02:562 [32minfo[39m: [32mUser name updated: 1756315425019 -> aa[39m
+2025-08-27 22:56:44:5644 [32minfo[39m: [32mAuto-ending poll b35f1993-9624-4997-ae07-ce67b483fcf6 due to time expiration[39m
+2025-08-27 22:57:36:5736 [32minfo[39m: [32mSocket connected: QZ4YgLV8k7DM3zVOAAAH[39m
+2025-08-27 22:57:36:5736 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 22:57:36:5736 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: QZ4YgLV8k7DM3zVOAAAH[39m
+2025-08-27 22:57:48:5748 [32minfo[39m: [32mTimer started for poll aa7d2e90-80af-4a19-b1ea-29cfb23d4dc8: 60 seconds[39m
+2025-08-27 22:57:48:5748 [32minfo[39m: [32mPoll created: 78 (ID: aa7d2e90-80af-4a19-b1ea-29cfb23d4dc8)[39m
+2025-08-27 22:57:48:5748 [32minfo[39m: [32mSystem message added: New poll created: "78"[39m
+2025-08-27 22:57:48:5748 [32minfo[39m: [32mPoll created via socket by 77: 78[39m
+2025-08-27 22:58:08:588 [32minfo[39m: [32mSocket connected: cMAeVWyyrK7k--iEAAAJ[39m
+2025-08-27 22:58:08:588 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 22:58:08:588 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: cMAeVWyyrK7k--iEAAAJ[39m
+2025-08-27 22:58:12:5812 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 22:58:12:5812 [32minfo[39m: [32mUser name updated: 1756315688650 -> l[39m
+2025-08-27 22:58:34:5834 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 22:58:34:5834 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 22:58:34:5834 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 22:58:34:5834 [32minfo[39m: [32mUser disconnected: 77 - Socket: QZ4YgLV8k7DM3zVOAAAH[39m
+2025-08-27 22:58:34:5834 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 22:58:34:5834 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 22:58:34:5834 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 22:58:34:5834 [32minfo[39m: [32mUser disconnected: ff - Socket: pJvrbQpNxogbWuZOAAAB[39m
+2025-08-27 22:58:35:5835 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 22:58:35:5835 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 22:58:35:5835 [32minfo[39m: [32mSystem message added: nez left the chat[39m
+2025-08-27 22:58:35:5835 [32minfo[39m: [32mUser disconnected: nez - Socket: 8EG0B3KM2F9YraQ8AAAD[39m
+2025-08-27 22:58:35:5835 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 22:58:35:5835 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 22:58:35:5835 [32minfo[39m: [32mSystem message added: aa left the chat[39m
+2025-08-27 22:58:35:5835 [32minfo[39m: [32mUser disconnected: aa - Socket: cszeDLRBixJgJrgXAAAF[39m
+2025-08-27 22:58:35:5835 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 22:58:35:5835 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 22:58:35:5835 [32minfo[39m: [32mSystem message added: l left the chat[39m
+2025-08-27 22:58:35:5835 [32minfo[39m: [32mUser disconnected: l - Socket: cMAeVWyyrK7k--iEAAAJ[39m
+2025-08-27 22:58:36:5836 [32minfo[39m: [32mSocket connected: KQZQvELmpe4EpUWJAAAL[39m
+2025-08-27 22:58:36:5836 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 22:58:36:5836 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: KQZQvELmpe4EpUWJAAAL[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mSocket connected: owjFqU2SXaZyFvmsAAAN[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: owjFqU2SXaZyFvmsAAAN[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mSocket connected: q6lQSW0sFHY9c1A-AAAP[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: q6lQSW0sFHY9c1A-AAAP[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mSocket connected: Tqqcqw2wk10sCzl1AAAR[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: Tqqcqw2wk10sCzl1AAAR[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mSocket connected: ENJtKHEgBmh0tp-eAAAT[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 22:58:37:5837 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: ENJtKHEgBmh0tp-eAAAT[39m
+2025-08-27 22:58:40:5840 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 22:58:40:5840 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mUser disconnected: Student - Socket: ENJtKHEgBmh0tp-eAAAT[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mAuto-ending poll aa7d2e90-80af-4a19-b1ea-29cfb23d4dc8 due to time expiration[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mUser disconnected: 77 - Socket: KQZQvELmpe4EpUWJAAAL[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mUser disconnected: Student - Socket: owjFqU2SXaZyFvmsAAAN[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mUser disconnected: ff - Socket: q6lQSW0sFHY9c1A-AAAP[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 22:59:17:5917 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 22:59:17:5917 [32minfo[39m: [32mUser disconnected: mu - Socket: Tqqcqw2wk10sCzl1AAAR[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mSocket connected: N_1zRD6ZdLerFCZSAAAV[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: N_1zRD6ZdLerFCZSAAAV[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mSocket connected: fxZ0HGAV2jI8yRnFAAAX[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: fxZ0HGAV2jI8yRnFAAAX[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mSocket connected: UUrgfVi_H9q0FS_VAAAZ[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 22:59:18:5918 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: UUrgfVi_H9q0FS_VAAAZ[39m
+2025-08-27 22:59:19:5919 [32minfo[39m: [32mSocket connected: zG2nmPg-LRz7T-xxAAAb[39m
+2025-08-27 22:59:19:5919 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 22:59:19:5919 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: zG2nmPg-LRz7T-xxAAAb[39m
+2025-08-27 22:59:19:5919 [32minfo[39m: [32mSocket connected: jt9NQN43mT_WR3fUAAAd[39m
+2025-08-27 22:59:19:5919 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 22:59:19:5919 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: jt9NQN43mT_WR3fUAAAd[39m
+2025-08-27 23:00:23:023 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:00:23:023 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:00:23:023 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mUser disconnected: Student - Socket: jt9NQN43mT_WR3fUAAAd[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mUser disconnected: ff - Socket: zG2nmPg-LRz7T-xxAAAb[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mUser disconnected: mu - Socket: N_1zRD6ZdLerFCZSAAAV[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mUser disconnected: 77 - Socket: fxZ0HGAV2jI8yRnFAAAX[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:00:24:024 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:00:24:024 [32minfo[39m: [32mUser disconnected: Student - Socket: UUrgfVi_H9q0FS_VAAAZ[39m
+2025-08-27 23:00:25:025 [32minfo[39m: [32mSocket connected: YaAkh86nBufMBjDSAAAf[39m
+2025-08-27 23:00:25:025 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:00:25:025 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: YaAkh86nBufMBjDSAAAf[39m
+2025-08-27 23:00:25:025 [32minfo[39m: [32mSocket connected: DlZlBs-E25HFRBw1AAAh[39m
+2025-08-27 23:00:25:025 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:00:25:025 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: DlZlBs-E25HFRBw1AAAh[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mSocket connected: x1LPlpJzd1SVMapgAAAj[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: x1LPlpJzd1SVMapgAAAj[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mSocket connected: kW21wJd72C4WLUW-AAAl[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: kW21wJd72C4WLUW-AAAl[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mSocket connected: R_jdU7n39jClOO-zAAAn[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:00:26:026 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: R_jdU7n39jClOO-zAAAn[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mUser disconnected: Student - Socket: kW21wJd72C4WLUW-AAAl[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mUser disconnected: mu - Socket: YaAkh86nBufMBjDSAAAf[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mUser disconnected: Student - Socket: DlZlBs-E25HFRBw1AAAh[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mUser disconnected: ff - Socket: x1LPlpJzd1SVMapgAAAj[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:04:06:46 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:04:06:46 [32minfo[39m: [32mUser disconnected: 77 - Socket: R_jdU7n39jClOO-zAAAn[39m
+2025-08-27 23:04:07:47 [32minfo[39m: [32mSocket connected: v4T7hSwermNxZgpDAAAp[39m
+2025-08-27 23:04:07:47 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:04:07:47 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: v4T7hSwermNxZgpDAAAp[39m
+2025-08-27 23:04:07:47 [32minfo[39m: [32mSocket connected: yk2r0TGnHeq6XFCNAAAr[39m
+2025-08-27 23:04:07:47 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:04:07:47 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: yk2r0TGnHeq6XFCNAAAr[39m
+2025-08-27 23:04:08:48 [32minfo[39m: [32mSocket connected: OMH3tx_-j470gAvsAAAt[39m
+2025-08-27 23:04:08:48 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:04:08:48 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: OMH3tx_-j470gAvsAAAt[39m
+2025-08-27 23:04:08:48 [32minfo[39m: [32mSocket connected: HL6mrbsVAanazJxMAAAw[39m
+2025-08-27 23:04:08:48 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:04:09:49 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: HL6mrbsVAanazJxMAAAw[39m
+2025-08-27 23:04:09:49 [32minfo[39m: [32mSocket connected: Ufn6y_Pf-ae_Z4nzAAAx[39m
+2025-08-27 23:04:09:49 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:04:09:49 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: Ufn6y_Pf-ae_Z4nzAAAx[39m
+2025-08-27 23:12:28:1228 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:12:28:1228 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:12:28:1228 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:12:28:1228 [32minfo[39m: [32mUser disconnected: Student - Socket: HL6mrbsVAanazJxMAAAw[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mUser disconnected: Student - Socket: OMH3tx_-j470gAvsAAAt[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mUser disconnected: mu - Socket: v4T7hSwermNxZgpDAAAp[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mUser disconnected: 77 - Socket: yk2r0TGnHeq6XFCNAAAr[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:12:29:1229 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:12:29:1229 [32minfo[39m: [32mUser disconnected: ff - Socket: Ufn6y_Pf-ae_Z4nzAAAx[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mSocket connected: f_nvieemUUPTQeIPAAAz[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: f_nvieemUUPTQeIPAAAz[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mSocket connected: IMcciPgPte-oJNayAAA1[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: IMcciPgPte-oJNayAAA1[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mSocket connected: OzWrCP2OoSE0O-AJAAA3[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: OzWrCP2OoSE0O-AJAAA3[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mSocket connected: inUu0yV-eQfbkYsyAAA5[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mSocket connected: cifoa4niGJft-gO-AAA7[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: cifoa4niGJft-gO-AAA7[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:12:30:1230 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: inUu0yV-eQfbkYsyAAA5[39m
+2025-08-27 23:12:30:1230 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:12:30:1230 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mUser disconnected: 77 - Socket: IMcciPgPte-oJNayAAA1[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mUser disconnected: mu - Socket: f_nvieemUUPTQeIPAAAz[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mUser disconnected: Student - Socket: OzWrCP2OoSE0O-AJAAA3[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mUser disconnected: ff - Socket: inUu0yV-eQfbkYsyAAA5[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:12:31:1231 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:12:31:1231 [32minfo[39m: [32mUser disconnected: Student - Socket: cifoa4niGJft-gO-AAA7[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mSocket connected: OC9sXeqPr0wU9afwAAA9[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: OC9sXeqPr0wU9afwAAA9[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mSocket connected: GJ_z9bG6C-m2o83hAAA_[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: GJ_z9bG6C-m2o83hAAA_[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mSocket connected: hP0mED6dpKaogZVkAABB[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:12:32:1232 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: hP0mED6dpKaogZVkAABB[39m
+2025-08-27 23:12:33:1233 [32minfo[39m: [32mSocket connected: SBYF9WDJbTeEey90AABD[39m
+2025-08-27 23:12:33:1233 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:12:33:1233 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: SBYF9WDJbTeEey90AABD[39m
+2025-08-27 23:12:33:1233 [32minfo[39m: [32mSocket connected: dBdeRrxR33Cx-o5CAABF[39m
+2025-08-27 23:12:33:1233 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:12:33:1233 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: dBdeRrxR33Cx-o5CAABF[39m
+2025-08-27 23:13:06:136 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mUser disconnected: ff - Socket: dBdeRrxR33Cx-o5CAABF[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mUser disconnected: Student - Socket: hP0mED6dpKaogZVkAABB[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mUser disconnected: Student - Socket: OC9sXeqPr0wU9afwAAA9[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mUser disconnected: 77 - Socket: GJ_z9bG6C-m2o83hAAA_[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:13:07:137 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:13:07:137 [32minfo[39m: [32mUser disconnected: mu - Socket: SBYF9WDJbTeEey90AABD[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mSocket connected: lFmXokmqzSrnqJxbAABH[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: lFmXokmqzSrnqJxbAABH[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mSocket connected: d4DwvzJdKUF0PriFAABJ[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: d4DwvzJdKUF0PriFAABJ[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mSocket connected: vcVEbpA2uk0iNFJoAABL[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:13:08:138 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: vcVEbpA2uk0iNFJoAABL[39m
+2025-08-27 23:13:09:139 [32minfo[39m: [32mSocket connected: Wky0iYkFYQTfaEJnAABN[39m
+2025-08-27 23:13:09:139 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:13:09:139 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: Wky0iYkFYQTfaEJnAABN[39m
+2025-08-27 23:13:09:139 [32minfo[39m: [32mSocket connected: 8JMGY3Z5dtAiBw2tAABP[39m
+2025-08-27 23:13:09:139 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:13:09:139 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: 8JMGY3Z5dtAiBw2tAABP[39m
+2025-08-27 23:14:10:1410 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:14:10:1410 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mUser disconnected: 77 - Socket: 8JMGY3Z5dtAiBw2tAABP[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mUser disconnected: mu - Socket: lFmXokmqzSrnqJxbAABH[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mUser disconnected: Student - Socket: d4DwvzJdKUF0PriFAABJ[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mUser disconnected: ff - Socket: vcVEbpA2uk0iNFJoAABL[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:17:54:1754 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:17:54:1754 [32minfo[39m: [32mUser disconnected: Student - Socket: Wky0iYkFYQTfaEJnAABN[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mSocket connected: vwBU9T-k6b0z_EhZAABR[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: vwBU9T-k6b0z_EhZAABR[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mSocket connected: dGmpPBEnBa62ef1tAABT[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: dGmpPBEnBa62ef1tAABT[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mSocket connected: MwrGnNgVJbOJ3xHPAABV[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: MwrGnNgVJbOJ3xHPAABV[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mSocket connected: GKurYhkHxaQJ7vD2AABX[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:17:55:1755 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: GKurYhkHxaQJ7vD2AABX[39m
+2025-08-27 23:17:56:1756 [32minfo[39m: [32mSocket connected: xs1XQGvOXwL9dXn3AABZ[39m
+2025-08-27 23:17:56:1756 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:17:56:1756 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: xs1XQGvOXwL9dXn3AABZ[39m
+2025-08-27 23:17:59:1759 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mUser disconnected: Student - Socket: GKurYhkHxaQJ7vD2AABX[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mUser 1756309240912 marked as offline[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mParticipant 1756309240912 status updated[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mSystem message added: ff left the chat[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mUser disconnected: ff - Socket: xs1XQGvOXwL9dXn3AABZ[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mUser disconnected: Student - Socket: vwBU9T-k6b0z_EhZAABR[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mUser disconnected: 77 - Socket: dGmpPBEnBa62ef1tAABT[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:18:02:182 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:18:02:182 [32minfo[39m: [32mUser disconnected: mu - Socket: MwrGnNgVJbOJ3xHPAABV[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mSocket connected: ehk3JJaokoTMni46AABb[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mChat participant added: ff (teacher)[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mUser authenticated: ff (teacher) - Socket: ehk3JJaokoTMni46AABb[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mSocket connected: MDFnBMX0Q0wnePJBAABd[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: MDFnBMX0Q0wnePJBAABd[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mSocket connected: jLCgaQRteOJJSQLyAABf[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mChat participant added: 77 (teacher)[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mUser authenticated: 77 (teacher) - Socket: jLCgaQRteOJJSQLyAABf[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mSocket connected: HI3ZlazMXmq2DGsWAABh[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mChat participant added: mu (teacher)[39m
+2025-08-27 23:18:03:183 [32minfo[39m: [32mUser authenticated: mu (teacher) - Socket: HI3ZlazMXmq2DGsWAABh[39m
+2025-08-27 23:18:04:184 [32minfo[39m: [32mSocket connected: _-GjuRzKSnGQjAvEAABj[39m
+2025-08-27 23:18:04:184 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-27 23:18:04:184 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: _-GjuRzKSnGQjAvEAABj[39m
+2025-08-27 23:19:41:1941 [37mdebug[39m: [37mUser 1756315387033 marked as offline[39m
+2025-08-27 23:19:41:1941 [37mdebug[39m: [37mParticipant 1756315387033 status updated[39m
+2025-08-27 23:19:41:1941 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:19:41:1941 [32minfo[39m: [32mUser disconnected: Student - Socket: MDFnBMX0Q0wnePJBAABd[39m
+2025-08-27 23:19:42:1942 [37mdebug[39m: [37mUser 1756315425019 marked as offline[39m
+2025-08-27 23:19:42:1942 [37mdebug[39m: [37mParticipant 1756315425019 status updated[39m
+2025-08-27 23:19:42:1942 [32minfo[39m: [32mSystem message added: mu left the chat[39m
+2025-08-27 23:19:42:1942 [32minfo[39m: [32mUser disconnected: mu - Socket: HI3ZlazMXmq2DGsWAABh[39m
+2025-08-27 23:19:43:1943 [37mdebug[39m: [37mUser 1756315656901 marked as offline[39m
+2025-08-27 23:19:43:1943 [37mdebug[39m: [37mParticipant 1756315656901 status updated[39m
+2025-08-27 23:19:43:1943 [32minfo[39m: [32mSystem message added: 77 left the chat[39m
+2025-08-27 23:19:43:1943 [32minfo[39m: [32mUser disconnected: 77 - Socket: jLCgaQRteOJJSQLyAABf[39m
+2025-08-27 23:19:43:1943 [37mdebug[39m: [37mUser 1756315688650 marked as offline[39m
+2025-08-27 23:19:43:1943 [37mdebug[39m: [37mParticipant 1756315688650 status updated[39m
+2025-08-27 23:19:43:1943 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-27 23:19:43:1943 [32minfo[39m: [32mUser disconnected: Student - Socket: _-GjuRzKSnGQjAvEAABj[39m
+2025-08-28 15:16:23:1623 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 15:16:23:1623 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 15:16:23:1623 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 15:16:23:1623 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 15:16:23:1623 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 15:25:27:2527 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 15:25:27:2527 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 15:25:27:2527 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 15:25:27:2527 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 15:25:27:2527 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 15:26:31:2631 [32minfo[39m: [32mSocket connected: 0CnlsVfFN6vR3gKDAAAB[39m
+2025-08-28 15:26:31:2631 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 15:26:31:2631 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: 0CnlsVfFN6vR3gKDAAAB[39m
+2025-08-28 15:26:50:2650 [37mdebug[39m: [37mParticipant 1756374991611 status updated[39m
+2025-08-28 15:26:50:2650 [32minfo[39m: [32mUser name updated: 1756374991611 -> ml[39m
+2025-08-28 15:27:20:2720 [37mdebug[39m: [37mParticipant 1756374991611 status updated[39m
+2025-08-28 15:27:20:2720 [32minfo[39m: [32mUser name updated: 1756374991611 -> ml[39m
+2025-08-28 15:29:47:2947 [32minfo[39m: [32mChat message added: 1756374991611 -> hii...[39m
+2025-08-28 15:29:47:2947 [32minfo[39m: [32mChat message sent via socket: ml -> hii...[39m
+2025-08-28 16:07:22:722 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 16:07:22:722 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 16:07:22:722 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 16:07:22:722 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 16:07:22:722 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 16:08:00:80 [32minfo[39m: [32mSocket connected: MzzoLH7EVQl57K64AAAB[39m
+2025-08-28 16:08:00:80 [32minfo[39m: [32mChat participant added: teach (teacher)[39m
+2025-08-28 16:08:00:80 [32minfo[39m: [32mUser authenticated: teach (teacher) - Socket: MzzoLH7EVQl57K64AAAB[39m
+2025-08-28 16:08:12:812 [32minfo[39m: [32mTimer started for poll 46a5b20a-6256-4db6-811b-9175178d1b08: 60 seconds[39m
+2025-08-28 16:08:12:812 [32minfo[39m: [32mPoll created: yy (ID: 46a5b20a-6256-4db6-811b-9175178d1b08)[39m
+2025-08-28 16:08:12:812 [32minfo[39m: [32mSystem message added: New poll created: "yy"[39m
+2025-08-28 16:08:12:812 [32minfo[39m: [32mPoll created via socket by teach: yy[39m
+2025-08-28 16:08:24:824 [37mdebug[39m: [37mParticipant 1756377480225 status updated[39m
+2025-08-28 16:08:24:824 [32minfo[39m: [32mUser name updated: 1756377480225 -> st[39m
+2025-08-28 16:09:12:912 [32minfo[39m: [32mAuto-ending poll 46a5b20a-6256-4db6-811b-9175178d1b08 due to time expiration[39m
+2025-08-28 16:09:19:919 [32minfo[39m: [32mChat message added: 1756377480225 -> hi...[39m
+2025-08-28 16:09:19:919 [32minfo[39m: [32mChat message sent via socket: st -> hi...[39m
+2025-08-28 16:09:28:928 [37mdebug[39m: [37mParticipant 1756377480225 status updated[39m
+2025-08-28 16:09:28:928 [32minfo[39m: [32mUser name updated: 1756377480225 -> st[39m
+2025-08-28 16:18:00:180 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 16:18:00:180 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 16:18:00:180 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 16:18:00:180 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 16:18:00:180 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 16:18:01:181 [32minfo[39m: [32mSocket connected: AONU_P5OAPjxaoc_AAAB[39m
+2025-08-28 16:18:01:181 [32minfo[39m: [32mChat participant added: teach (teacher)[39m
+2025-08-28 16:18:01:181 [32minfo[39m: [32mUser authenticated: teach (teacher) - Socket: AONU_P5OAPjxaoc_AAAB[39m
+2025-08-28 16:18:09:189 [37mdebug[39m: [37mUser 1756377480225 marked as offline[39m
+2025-08-28 16:18:09:189 [37mdebug[39m: [37mParticipant 1756377480225 status updated[39m
+2025-08-28 16:18:09:189 [32minfo[39m: [32mSystem message added: teach left the chat[39m
+2025-08-28 16:18:09:189 [32minfo[39m: [32mUser disconnected: teach - Socket: AONU_P5OAPjxaoc_AAAB[39m
+2025-08-28 16:18:24:1824 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 16:18:24:1824 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 16:18:24:1824 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 16:18:24:1824 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 16:18:24:1824 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 16:18:50:1850 [32minfo[39m: [32mSocket connected: 8U-A1WaTTpkwy5X_AAAB[39m
+2025-08-28 16:18:50:1850 [32minfo[39m: [32mChat participant added: m (teacher)[39m
+2025-08-28 16:18:50:1850 [32minfo[39m: [32mUser authenticated: m (teacher) - Socket: 8U-A1WaTTpkwy5X_AAAB[39m
+2025-08-28 16:22:32:2232 [32minfo[39m: [32mTimer started for poll 41ab1357-0e6c-4b2b-9ffc-2edfa9507690: 60 seconds[39m
+2025-08-28 16:22:32:2232 [32minfo[39m: [32mPoll created: 8 (ID: 41ab1357-0e6c-4b2b-9ffc-2edfa9507690)[39m
+2025-08-28 16:22:32:2232 [32minfo[39m: [32mSystem message added: New poll created: "8"[39m
+2025-08-28 16:22:32:2232 [32minfo[39m: [32mPoll created via socket by m: 8[39m
+2025-08-28 16:22:44:2244 [37mdebug[39m: [37mParticipant 1756378130710 status updated[39m
+2025-08-28 16:22:44:2244 [32minfo[39m: [32mUser name updated: 1756378130710 -> m[39m
+2025-08-28 16:23:32:2332 [32minfo[39m: [32mAuto-ending poll 41ab1357-0e6c-4b2b-9ffc-2edfa9507690 due to time expiration[39m
+2025-08-28 16:32:09:329 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 16:32:09:329 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 16:32:09:329 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 16:32:09:329 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 16:32:09:329 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 16:32:10:3210 [32minfo[39m: [32mSocket connected: 7zzx5RrW-PUzA2sCAAAB[39m
+2025-08-28 16:32:10:3210 [32minfo[39m: [32mChat participant added: m (teacher)[39m
+2025-08-28 16:32:10:3210 [32minfo[39m: [32mUser authenticated: m (teacher) - Socket: 7zzx5RrW-PUzA2sCAAAB[39m
+2025-08-28 16:43:27:4327 [37mdebug[39m: [37mUser 1756378130710 marked as offline[39m
+2025-08-28 16:43:27:4327 [37mdebug[39m: [37mParticipant 1756378130710 status updated[39m
+2025-08-28 16:43:27:4327 [32minfo[39m: [32mSystem message added: m left the chat[39m
+2025-08-28 16:43:27:4327 [32minfo[39m: [32mUser disconnected: m - Socket: 7zzx5RrW-PUzA2sCAAAB[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32mSocket connected: atgeafpncInn8uGdAAAB[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32mChat participant added: ta (teacher)[39m
+2025-08-28 17:06:22:622 [32minfo[39m: [32mUser authenticated: ta (teacher) - Socket: atgeafpncInn8uGdAAAB[39m
+2025-08-28 17:06:45:645 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 17:06:45:645 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 17:06:45:645 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 17:06:45:645 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 17:06:45:645 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 17:07:11:711 [32minfo[39m: [32mSocket connected: cpta5NQ2dpCQxbGPAAAB[39m
+2025-08-28 17:07:11:711 [32minfo[39m: [32mChat participant added: w (teacher)[39m
+2025-08-28 17:07:11:711 [32minfo[39m: [32mUser authenticated: w (teacher) - Socket: cpta5NQ2dpCQxbGPAAAB[39m
+2025-08-28 17:07:26:726 [32minfo[39m: [32mTimer started for poll 26264660-ebcb-433a-a7df-322fa25e0041: 60 seconds[39m
+2025-08-28 17:07:26:726 [32minfo[39m: [32mPoll created: s (ID: 26264660-ebcb-433a-a7df-322fa25e0041)[39m
+2025-08-28 17:07:26:726 [32minfo[39m: [32mSystem message added: New poll created: "s"[39m
+2025-08-28 17:07:26:726 [32minfo[39m: [32mPoll created via socket by w: s[39m
+2025-08-28 17:07:36:736 [37mdebug[39m: [37mParticipant 1756381031768 status updated[39m
+2025-08-28 17:07:36:736 [32minfo[39m: [32mUser name updated: 1756381031768 -> s[39m
+2025-08-28 17:08:26:826 [32minfo[39m: [32mAuto-ending poll 26264660-ebcb-433a-a7df-322fa25e0041 due to time expiration[39m
+2025-08-28 17:10:51:1051 [37mdebug[39m: [37mParticipant 1756381031768 status updated[39m
+2025-08-28 17:10:51:1051 [32minfo[39m: [32mUser name updated: 1756381031768 -> m[39m
+2025-08-28 17:14:26:1426 [37mdebug[39m: [37mParticipant 1756381031768 status updated[39m
+2025-08-28 17:14:26:1426 [32minfo[39m: [32mUser name updated: 1756381031768 -> s[39m
+2025-08-28 17:15:49:1549 [37mdebug[39m: [37mParticipant 1756381031768 status updated[39m
+2025-08-28 17:15:49:1549 [32minfo[39m: [32mUser name updated: 1756381031768 -> s[39m
+2025-08-28 17:16:05:165 [32minfo[39m: [32mTimer started for poll ecee1cc1-a087-4c92-ad48-335fee70ce18: 60 seconds[39m
+2025-08-28 17:16:05:165 [32minfo[39m: [32mPoll created: q (ID: ecee1cc1-a087-4c92-ad48-335fee70ce18)[39m
+2025-08-28 17:16:05:165 [32minfo[39m: [32mSystem message added: New poll created: "q"[39m
+2025-08-28 17:16:05:165 [32minfo[39m: [32mPoll created via socket by s: q[39m
+2025-08-28 17:16:21:1621 [37mdebug[39m: [37mParticipant 1756381031768 status updated[39m
+2025-08-28 17:16:21:1621 [32minfo[39m: [32mUser name updated: 1756381031768 -> ss[39m
+2025-08-28 17:17:05:175 [32minfo[39m: [32mAuto-ending poll ecee1cc1-a087-4c92-ad48-335fee70ce18 due to time expiration[39m
+2025-08-28 17:31:31:3131 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 17:31:31:3131 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 17:31:31:3131 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 17:31:31:3131 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 17:31:31:3131 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 17:31:34:3134 [32minfo[39m: [32mSocket connected: Pe9gq9Bk9BHOBKlmAAAB[39m
+2025-08-28 17:31:34:3134 [32minfo[39m: [32mChat participant added: w (teacher)[39m
+2025-08-28 17:31:34:3134 [32minfo[39m: [32mUser authenticated: w (teacher) - Socket: Pe9gq9Bk9BHOBKlmAAAB[39m
+2025-08-28 17:33:20:3320 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 17:33:20:3320 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 17:33:20:3320 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 17:33:20:3320 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 17:33:20:3320 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 17:33:21:3321 [32minfo[39m: [32mSocket connected: vUNqvS4DJPzzwosrAAAB[39m
+2025-08-28 17:33:21:3321 [32minfo[39m: [32mChat participant added: w (teacher)[39m
+2025-08-28 17:33:21:3321 [32minfo[39m: [32mUser authenticated: w (teacher) - Socket: vUNqvS4DJPzzwosrAAAB[39m
+2025-08-28 17:33:27:3327 [37mdebug[39m: [37mUser 1756381031768 marked as offline[39m
+2025-08-28 17:33:27:3327 [37mdebug[39m: [37mParticipant 1756381031768 status updated[39m
+2025-08-28 17:33:27:3327 [32minfo[39m: [32mSystem message added: w left the chat[39m
+2025-08-28 17:33:27:3327 [32minfo[39m: [32mUser disconnected: w - Socket: vUNqvS4DJPzzwosrAAAB[39m
+2025-08-28 17:33:48:3348 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 17:33:48:3348 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 17:33:48:3348 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 17:33:48:3348 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 17:33:48:3348 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 17:35:13:3513 [32minfo[39m: [32mSocket connected: Sb0yy62MBBFI1qytAAAB[39m
+2025-08-28 17:35:13:3513 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 17:35:13:3513 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: Sb0yy62MBBFI1qytAAAB[39m
+2025-08-28 17:35:20:3520 [37mdebug[39m: [37mUser 1756382713034 marked as offline[39m
+2025-08-28 17:35:20:3520 [37mdebug[39m: [37mParticipant 1756382713034 status updated[39m
+2025-08-28 17:35:20:3520 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-28 17:35:20:3520 [32minfo[39m: [32mUser disconnected: Student - Socket: Sb0yy62MBBFI1qytAAAB[39m
+2025-08-28 17:35:28:3528 [32minfo[39m: [32mSocket connected: CZfVt_lGxB6x7SPpAAAD[39m
+2025-08-28 17:35:28:3528 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 17:35:28:3528 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: CZfVt_lGxB6x7SPpAAAD[39m
+2025-08-28 17:35:36:3536 [37mdebug[39m: [37mParticipant 1756382728225 status updated[39m
+2025-08-28 17:35:36:3536 [32minfo[39m: [32mUser name updated: 1756382728225 -> w[39m
+2025-08-28 17:36:10:3610 [37mdebug[39m: [37mParticipant 1756382728225 status updated[39m
+2025-08-28 17:36:10:3610 [32minfo[39m: [32mUser name updated: 1756382728225 -> w[39m
+2025-08-28 17:36:35:3635 [37mdebug[39m: [37mParticipant 1756382728225 status updated[39m
+2025-08-28 17:36:35:3635 [32minfo[39m: [32mUser name updated: 1756382728225 -> ss[39m
+2025-08-28 17:38:21:3821 [37mdebug[39m: [37mUser 1756382728225 marked as offline[39m
+2025-08-28 17:38:21:3821 [37mdebug[39m: [37mParticipant 1756382728225 status updated[39m
+2025-08-28 17:38:21:3821 [32minfo[39m: [32mSystem message added: ss left the chat[39m
+2025-08-28 17:38:21:3821 [32minfo[39m: [32mUser disconnected: ss - Socket: CZfVt_lGxB6x7SPpAAAD[39m
+2025-08-28 17:38:24:3824 [32minfo[39m: [32mSocket connected: iOxMvUMwzKG-xS4xAAAF[39m
+2025-08-28 17:38:24:3824 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 17:38:24:3824 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: iOxMvUMwzKG-xS4xAAAF[39m
+2025-08-28 17:38:28:3828 [37mdebug[39m: [37mParticipant 1756382904108 status updated[39m
+2025-08-28 17:38:28:3828 [32minfo[39m: [32mUser name updated: 1756382904108 -> 2[39m
+2025-08-28 17:38:56:3856 [37mdebug[39m: [37mParticipant 1756382904108 status updated[39m
+2025-08-28 17:38:56:3856 [32minfo[39m: [32mUser name updated: 1756382904108 -> 2[39m
+2025-08-28 17:39:37:3937 [37mdebug[39m: [37mParticipant 1756382904108 status updated[39m
+2025-08-28 17:39:37:3937 [32minfo[39m: [32mUser name updated: 1756382904108 -> 2[39m
+2025-08-28 17:41:30:4130 [37mdebug[39m: [37mParticipant 1756382904108 status updated[39m
+2025-08-28 17:41:30:4130 [32minfo[39m: [32mUser name updated: 1756382904108 -> 2[39m
+2025-08-28 17:44:18:4418 [37mdebug[39m: [37mUser 1756382904108 marked as offline[39m
+2025-08-28 17:44:18:4418 [37mdebug[39m: [37mParticipant 1756382904108 status updated[39m
+2025-08-28 17:44:18:4418 [32minfo[39m: [32mSystem message added: 2 left the chat[39m
+2025-08-28 17:44:18:4418 [32minfo[39m: [32mUser disconnected: 2 - Socket: iOxMvUMwzKG-xS4xAAAF[39m
+2025-08-28 17:44:21:4421 [32minfo[39m: [32mSocket connected: _OM2nfeq4E4y0IX2AAAH[39m
+2025-08-28 17:44:21:4421 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 17:44:21:4421 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: _OM2nfeq4E4y0IX2AAAH[39m
+2025-08-28 17:44:25:4425 [37mdebug[39m: [37mParticipant 1756383261625 status updated[39m
+2025-08-28 17:44:25:4425 [32minfo[39m: [32mUser name updated: 1756383261625 -> 2[39m
+2025-08-28 17:44:59:4459 [37mdebug[39m: [37mParticipant 1756383261625 status updated[39m
+2025-08-28 17:44:59:4459 [32minfo[39m: [32mUser name updated: 1756383261625 -> 2[39m
+2025-08-28 17:51:03:513 [32minfo[39m: [32mSocket connected: oUYZMhSPe6MG2Ez-AAAJ[39m
+2025-08-28 17:51:03:513 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 17:51:03:513 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: oUYZMhSPe6MG2Ez-AAAJ[39m
+2025-08-28 17:51:07:517 [37mdebug[39m: [37mParticipant 1756383663456 status updated[39m
+2025-08-28 17:51:07:517 [32minfo[39m: [32mUser name updated: 1756383663456 -> v[39m
+2025-08-28 17:51:57:5157 [37mdebug[39m: [37mParticipant 1756383663456 status updated[39m
+2025-08-28 17:51:57:5157 [32minfo[39m: [32mUser name updated: 1756383663456 -> v[39m
+2025-08-28 17:52:12:5212 [37mdebug[39m: [37mUser 1756383261625 marked as offline[39m
+2025-08-28 17:52:12:5212 [37mdebug[39m: [37mParticipant 1756383261625 status updated[39m
+2025-08-28 17:52:12:5212 [32minfo[39m: [32mSystem message added: 2 left the chat[39m
+2025-08-28 17:52:12:5212 [32minfo[39m: [32mUser disconnected: 2 - Socket: _OM2nfeq4E4y0IX2AAAH[39m
+2025-08-28 17:53:27:5327 [37mdebug[39m: [37mParticipant 1756383663456 status updated[39m
+2025-08-28 17:53:27:5327 [32minfo[39m: [32mUser name updated: 1756383663456 -> v[39m
+2025-08-28 17:58:29:5829 [37mdebug[39m: [37mUser 1756383663456 marked as offline[39m
+2025-08-28 17:58:29:5829 [37mdebug[39m: [37mParticipant 1756383663456 status updated[39m
+2025-08-28 17:58:29:5829 [32minfo[39m: [32mSystem message added: v left the chat[39m
+2025-08-28 17:58:29:5829 [32minfo[39m: [32mUser disconnected: v - Socket: oUYZMhSPe6MG2Ez-AAAJ[39m
+2025-08-28 17:58:33:5833 [32minfo[39m: [32mSocket connected: 05ZrK7GXx5er0QI9AAAL[39m
+2025-08-28 17:58:33:5833 [32minfo[39m: [32mChat participant added: v (teacher)[39m
+2025-08-28 17:58:33:5833 [32minfo[39m: [32mUser authenticated: v (teacher) - Socket: 05ZrK7GXx5er0QI9AAAL[39m
+2025-08-28 17:58:43:5843 [32minfo[39m: [32mTimer started for poll ca6e9004-b332-4735-a002-f791fb23f35b: 60 seconds[39m
+2025-08-28 17:58:43:5843 [32minfo[39m: [32mPoll created: v (ID: ca6e9004-b332-4735-a002-f791fb23f35b)[39m
+2025-08-28 17:58:43:5843 [32minfo[39m: [32mSystem message added: New poll created: "v"[39m
+2025-08-28 17:58:43:5843 [32minfo[39m: [32mPoll created via socket by v: v[39m
+2025-08-28 17:59:43:5943 [32minfo[39m: [32mAuto-ending poll ca6e9004-b332-4735-a002-f791fb23f35b due to time expiration[39m
+2025-08-28 18:07:40:740 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 18:07:40:740 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 18:07:40:740 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 18:07:40:740 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 18:07:40:740 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 18:08:11:811 [32minfo[39m: [32mSocket connected: Spt3HxGYd9pz6eJ_AAAB[39m
+2025-08-28 18:08:11:811 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 18:08:11:811 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: Spt3HxGYd9pz6eJ_AAAB[39m
+2025-08-28 18:08:13:813 [37mdebug[39m: [37mParticipant 1756384691281 status updated[39m
+2025-08-28 18:08:13:813 [32minfo[39m: [32mUser name updated: 1756384691281 -> v[39m
+2025-08-28 18:08:29:829 [32minfo[39m: [32mSocket connected: ZeE6xW4T-S2afCguAAAD[39m
+2025-08-28 18:08:29:829 [32minfo[39m: [32mChat participant added: V (teacher)[39m
+2025-08-28 18:08:29:829 [32minfo[39m: [32mUser authenticated: V (teacher) - Socket: ZeE6xW4T-S2afCguAAAD[39m
+2025-08-28 18:08:38:838 [32minfo[39m: [32mTimer started for poll 0bedc60c-512b-4e0a-a30b-8f5c45355df7: 60 seconds[39m
+2025-08-28 18:08:38:838 [32minfo[39m: [32mPoll created: V (ID: 0bedc60c-512b-4e0a-a30b-8f5c45355df7)[39m
+2025-08-28 18:08:38:838 [32minfo[39m: [32mSystem message added: New poll created: "V"[39m
+2025-08-28 18:08:38:838 [32minfo[39m: [32mPoll created via socket by V: V[39m
+2025-08-28 18:08:39:839 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:39:839 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:45:845 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:45:845 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:46:846 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:46:846 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:51:851 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:51:851 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:51:851 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:51:851 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:52:852 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:52:852 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:52:852 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:52:852 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:52:852 [31merror[39m: [31mError creating poll: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:08:52:852 [31merror[39m: [31mSocket poll creation error: Cannot create new poll: Previous poll is still active.[39m
+2025-08-28 18:09:38:938 [32minfo[39m: [32mAuto-ending poll 0bedc60c-512b-4e0a-a30b-8f5c45355df7 due to time expiration[39m
+2025-08-28 18:11:12:1112 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 18:11:12:1112 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 18:11:12:1112 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 18:11:12:1112 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 18:11:12:1112 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 18:11:44:1144 [32minfo[39m: [32mSocket connected: T_Wkh83clv4MdkfJAAAB[39m
+2025-08-28 18:11:44:1144 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 18:11:44:1144 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: T_Wkh83clv4MdkfJAAAB[39m
+2025-08-28 18:11:47:1147 [37mdebug[39m: [37mParticipant 1756384904103 status updated[39m
+2025-08-28 18:11:47:1147 [32minfo[39m: [32mUser name updated: 1756384904103 -> v[39m
+2025-08-28 18:12:55:1255 [32minfo[39m: [32mSocket.io handlers configured successfully[39m
+2025-08-28 18:12:55:1255 [32minfo[39m: [32m🚀 Server running on port 5000[39m
+2025-08-28 18:12:55:1255 [32minfo[39m: [32m📡 Socket.io server initialized[39m
+2025-08-28 18:12:55:1255 [32minfo[39m: [32m🌍 Environment: development[39m
+2025-08-28 18:12:55:1255 [32minfo[39m: [32m🔗 CORS Origin: http://localhost:3000[39m
+2025-08-28 18:12:57:1257 [32minfo[39m: [32mSocket connected: G1UGTdG-FQWVCk0ZAAAB[39m
+2025-08-28 18:12:57:1257 [32minfo[39m: [32mChat participant added: Student (student)[39m
+2025-08-28 18:12:57:1257 [32minfo[39m: [32mUser authenticated: Student (student) - Socket: G1UGTdG-FQWVCk0ZAAAB[39m
+2025-08-28 18:13:13:1313 [37mdebug[39m: [37mUser 1756384904103 marked as offline[39m
+2025-08-28 18:13:13:1313 [37mdebug[39m: [37mParticipant 1756384904103 status updated[39m
+2025-08-28 18:13:13:1313 [32minfo[39m: [32mSystem message added: Student left the chat[39m
+2025-08-28 18:13:13:1313 [32minfo[39m: [32mUser disconnected: Student - Socket: G1UGTdG-FQWVCk0ZAAAB[39m
+2025-08-28 18:13:17:1317 [32minfo[39m: [32mSocket connected: j_uyEuJQeVkZdq7nAAAD[39m
+2025-08-28 18:13:17:1317 [32minfo[39m: [32mChat participant added: d (teacher)[39m
+2025-08-28 18:13:17:1317 [32minfo[39m: [32mUser authenticated: d (teacher) - Socket: j_uyEuJQeVkZdq7nAAAD[39m
+2025-08-28 18:13:25:1325 [32minfo[39m: [32mTimer started for poll 381a58e5-d587-47e5-b2a9-3c5e9b7f2a58: 60 seconds[39m
+2025-08-28 18:13:25:1325 [32minfo[39m: [32mPoll created: ww (ID: 381a58e5-d587-47e5-b2a9-3c5e9b7f2a58)[39m
+2025-08-28 18:13:25:1325 [32minfo[39m: [32mSystem message added: New poll created: "ww"[39m
+2025-08-28 18:13:25:1325 [32minfo[39m: [32mPoll created via socket by d: ww[39m
+2025-08-28 18:13:33:1333 [37mdebug[39m: [37mParticipant 1756384997768 status updated[39m
+2025-08-28 18:13:33:1333 [32minfo[39m: [32mUser name updated: 1756384997768 -> dd[39m
+2025-08-28 18:14:25:1425 [32minfo[39m: [32mAuto-ending poll 381a58e5-d587-47e5-b2a9-3c5e9b7f2a58 due to time expiration[39m
+2025-08-28 18:16:16:1616 [37mdebug[39m: [37mUser 1756384997768 marked as offline[39m
+2025-08-28 18:16:16:1616 [37mdebug[39m: [37mParticipant 1756384997768 status updated[39m
+2025-08-28 18:16:16:1616 [32minfo[39m: [32mSystem message added: dd left the chat[39m
+2025-08-28 18:16:16:1616 [32minfo[39m: [32mUser disconnected: dd - Socket: j_uyEuJQeVkZdq7nAAAD[39m

@@ -11,7 +11,7 @@ A real-time classroom polling and chat application with separate backend (Node.j
 
 ### Tech Stack
 - **Frontend**: React, Redux, Socket.IO client
-- **Backend**: Node.js, Express, Socket.IO
+- **Backend**:  Express.js and  Socket.IO
 - **Logging**: Winston (files in `backend/logs/`)
 
 ### Repository Structure
@@ -37,7 +37,7 @@ A real-time classroom polling and chat application with separate backend (Node.j
 ## Getting Started (Local Development)
 
 ### Prerequisites
-- Node.js 18+ and npm 9+
+-  npm 9+
 - Two terminals (one for backend, one for frontend)
 
 ### 1) Backend setup
@@ -58,8 +58,7 @@ CLIENT_URL=http://localhost:3000
 Start the backend:
 ```
 npm start
-# or
-node server.js
+
 ```
 The server will listen on `PORT` (default `5000`) and expose HTTP + Socket.IO.
 
@@ -114,7 +113,7 @@ You can deploy the backend and frontend separately. Below are battle-tested defa
 1. Create a new Web Service from your Git repository.
 2. Root directory: `backend/`
 3. Build command: `npm ci`
-4. Start command: `npm start` (or `node server.js`)
+4. Start command: `npm start` 
 5. Environment variables:
    - `PORT` — Render will provide one; ensure your code reads `process.env.PORT`.
    - `CLIENT_URL` — set to your frontend deployed URL.
@@ -162,22 +161,7 @@ For detailed behavior, consult the relevant files above.
 
 ---
 
-## Assignment Submission Template
-```
-Subject: SDE INTERN ASSIGNMENT SUBMISSION
 
-Name: <Your Full Name>
-Phone Number: <Your Contact Number>
-Email ID: <Your Email Address>
-LinkedIn URL: <Your LinkedIn Profile Link>
-APPLIED VIA GOOGLE FORM: YES/NO
-
-Assignment Link (Frontend): <Hosted/Deployed Link>
-Backend API Link (optional): <Hosted/Deployed Link>
-GitHub Repo: <Repository URL>
-```
-
----
 
 ## License
 This project is for educational and evaluation purposes. Add a license here if you intend to distribute.

@@ -1,6 +1,11 @@
 ## Live Polling System
 
 A real-time classroom polling and chat application with separate backend (Node.js/Express + Socket.IO) and frontend (React + Redux). Teachers can create polls, students can vote live, and everyone can see real-time results and chat updates.
+## 🚀 Live Demo
+
+🌐 [Visit the Live App](https://live-polling-system-1-lt2t.onrender.com/)  
+
+
 
 ### Features
 - Real-time polls and live results via WebSockets (Socket.IO)

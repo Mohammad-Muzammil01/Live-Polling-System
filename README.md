@@ -158,11 +158,7 @@ For detailed behavior, consult the relevant files above.
 
 ---
 
-## Troubleshooting
-- Frontend can’t connect: verify `REACT_APP_BACKEND_URL` and backend CORS `CLIENT_URL`.
-- WebSocket not connecting in production: check that your host supports WebSockets and that CORS is configured for both HTTP and Socket.IO.
-- Mixed-content errors: if frontend is HTTPS, backend must also be HTTPS.
-- Stale envs on frontend: re-deploy after changing env vars so the build picks them up.
+
 
 ---
 

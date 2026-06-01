@@ -168,7 +168,6 @@ For detailed behavior, consult the relevant files above.
 
 
 
-## License
-This project is for educational and evaluation purposes. Add a license here if you intend to distribute.
+
 
 
